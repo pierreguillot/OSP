@@ -26,3 +26,17 @@
 *.exe
 *.out
 *.app
+
+# Mac
+
+xcuserdata/
+xcshareddata/
+
+*.build/
+*.gcda
+
+# Mac crap
+.DS_Store
+
+*.mode1V3
+*.pbxuser
